@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+      "eris": "^0.17.1"
+    },
+    "name": "ADB-bot",
+    "version": "1.0.0",
+    "description": "ADBadge",
+    "main": "index.js",
+    "scripts": {
+      "run": "npm i && node ."
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nnbaocuong99/Activedev-badge-bot"
+    },
+    "author": "spagbomusic#1999",
+    "license": "MIT"
+  }
+  
