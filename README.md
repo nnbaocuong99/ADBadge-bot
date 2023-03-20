@@ -1,12 +1,9 @@
-<h1 align="center"> ✨ basic discord bot to get the active devloper badge ✨ </h1>#
+<h1 align="center"> ✨ 1 time use-bot to get the active devloper badge ✨ </h1>
 
-new version of the bot to get Active Developer Badge
+> this is new version. I've deleted the old one because the old code no longer works.
 
-
----
-
-# ✨ as u know
-- discord has launched a brand-new badge called [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
+# ✨ As you know, Summary
+- Discord has launched a brand-new badge called [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
 - used and got myself and a few more accounts this badges so i decided to share it. i really dont mind everybody can make basic bot, just take it. i dont have any license or tried to claim or steal from anyone.
 
 ---
