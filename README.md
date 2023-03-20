@@ -3,12 +3,12 @@
 > this is new version. I've deleted the old one because the old code no longer works.
 
 
-# ✨ As you know / Summary
+# 1. As you know / Summary
 - Discord has launched a brand-new badge called [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
 - Used and got myself and a few more accounts this badges before, so i decided to share it. i really dont mind because this is super easy to make and everybody can make basic bot and get the badge, so just take it if you wanna. i dont have any license or tried to claim or steal from anyone.
 
 
-# ✨ Usage / Locahosting 
+# ✨ 2. Usage / Locahosting 
 ### 1. If you're not plan to host your bot on a vps, cloud server. Follow these step:
 - ***Create an appplication*** and ***add a bot*** on [Discord Developer Portal](https://discord.com/developers/applications)
 - In the first time create you will see `Copy` button, copy your token and save it. (click on `Reset Token` if you need it)
@@ -59,7 +59,7 @@ $ npm run OTg5MDE1MjM0NjU0MTM0MzAy.G2dFj9.MtVIU-1XM37rNp7HjsXm76a0kpkwhV9S-9-ZM8
 ## ✨ others:
 
 - package: https://www.npmjs.com/settings/nnbaocuong99/packages
-- Dockerfile: [here](https://github.com/nnbaocuong99/Activedev-badge-bot/blob/main/Dockerfile)
+- Dockerfile: [here](https://github.com/nnbaocuong99/ADBadge-bot/blob/main/Dockerfile)
 
 ---
 
