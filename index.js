@@ -17,10 +17,8 @@ async function init(token) {
         if (interaction?.data?.name === 'henlo') {
             await interaction.createMessage({
                 content: 'busted xD'
-            })
-            //console.log("interaction complete")
+            })          
             console.log('im done, have a good time with your badge')
-            process.exit(0)
         }
     })
     ADBadge.connect();
