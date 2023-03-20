@@ -2,21 +2,24 @@
 
 > this is new version. I've deleted the old one because the old code no longer works.
 
-# ✨ As you know, Summary
+
+# ✨ As you know / Summary
 - Discord has launched a brand-new badge called [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
-- used and got myself and a few more accounts this badges so i decided to share it. i really dont mind everybody can make basic bot, just take it. i dont have any license or tried to claim or steal from anyone.
-
----
-
-# ✨ usage / locahosting 
+- Used and got myself and a few more accounts this badges before, so i decided to share it. i really dont mind because this is super easy to make and everybody can make basic bot and get the badge, so just take it if you wanna. i dont have any license or tried to claim or steal from anyone.
 
 
-if u r not plan to host ur bot on the vps or a cloud server pls follow these step:
-1. on [Discord Developer Portal](https://discord.com/developers/applications) create an appplication and build a bot.
-2. click `reset token` to get or bot token (dont forget to storage and DO NOT let anyone know ur bot token!)
-3. on your device, install [Node](https://nodejs.org/en/) to run your bot and you also need [Git](https://git-scm.com) to control your source code, repo,...
+# ✨ Usage / Locahosting 
+### 1. If you're not plan to host your bot on a vps, cloud server. Follow these step:
+- ***Create an appplication*** and ***add a bot*** on [Discord Developer Portal](https://discord.com/developers/applications)
+- In the first time create you will see `Copy` button, copy your token and save it. (click on `Reset Token` if you need it)
+- Install [Node](https://nodejs.org/en/), [Git](https://git-scm.com) on your device.
+- Use any IDE or `Terminal`
+
+
+
 4. if u dont have any IDE get urself 1 (for example VScode) or a `terminal` in the directory. 
 5. there are 2 ways, if you
+
 
 #### dont have this repo on ur device: 
 
