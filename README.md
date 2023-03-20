@@ -1,60 +1,74 @@
 <h1 align="center"> ✨ 1 time use-bot to get the active devloper badge ✨ </h1>
 
-> this is new version. I've deleted the old one because the old code no longer works.
+> <ins>**this is the new version. I've deleted the old one because the old code no longer works**</ins>
 
 
-# 1. As you know / Summary
+## 1. As you know / Summary
 - Discord has launched a brand-new badge called [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
 - Used and got myself and a few more accounts this badges before, so i decided to share it. i really dont mind because this is super easy to make and everybody can make basic bot and get the badge, so just take it if you wanna. i dont have any license or tried to claim or steal from anyone.
 
 
-# ✨ 2. Usage / Locahosting 
-### 1. If you're not plan to host your bot on a vps, cloud server. Follow these step:
-- ***Create an appplication*** and ***add a bot*** on [Discord Developer Portal](https://discord.com/developers/applications)
-- In the first time create you will see `Copy` button, copy your token and save it. (click on `Reset Token` if you need it)
-- Install [Node](https://nodejs.org/en/), [Git](https://git-scm.com) on your device.
-- Use any IDE or `Terminal`
-
-
-
-4. if u dont have any IDE get urself 1 (for example VScode) or a `terminal` in the directory. 
-5. there are 2 ways, if you
-
-
-#### dont have this repo on ur device: 
-
-- run this command to clone the repo 
+## 2. Before we get started
+- Install [Node](https://nodejs.org/en/), [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/insiders/) (Optional)
+- Clone this project:
 ```
-$ git clone https://github.com/nnbaocuong99/archived-badge-bot
-``` 
-- *use an IDE (Integrated Development Environment)* to open the project or basically open a terminal in the directory. if you opened a terminal in another location remember to `cd/path-of-your-project` into the project folder. (for example: `cd/users/Desktop/Downloaded-folder`)
-- run `npm install` or `npm i` to install the dependencies.
-- run this but replace my example token to ur own token
+$ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 ```
-$ npm run ur_bot_token
-$ npm run OTg5MDE1MjM0NjU0MTM0MzAy.G2dFj9.MtVIU-1XM37rNp7HjsXm76a0kpkwhV9S-9-ZM8
-``` 
 
-#### already cloned or downloaded the source code: 
 
-- use vscode to open it and run `npm install` / `npm i` on the terminal. cd into the directory if u use any single terminal and run the same command to install the dependencies.
 
-- run this command 
+## 3. Usage / Locahosting / Guides
+
+
+
+#### <ins>Step 1:</ins>
+**Create an appplication** and **add a bot** on [Discord Developer Portal](https://discord.com/developers/applications)
+
+#### <ins>Step 2:</ins>
+`Copy` your bot token. `Reset Token` if you need it.
+
+
+
+#### <ins>Step 4:</ins>
+Clone this project:
 ```
-$ npm run ur_bot_token
-$ npm run OTg5MDE1MjM0NjU0MTM0MzAy.G2dFj9.MtVIU-1XM37rNp7HjsXm76a0kpkwhV9S-9-ZM8
-```` 
+$ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
+```
 
----
+#### <ins>Step 5:</ins> 
+`cd` into it and install the dependencies:
+```
+$ npm install | npm i
+```
 
-## ✨ run the command and get ur own the badge
+#### <ins>Step 6:</ins>
+Replace the `your-bot-token` in the command below and run it, If it not work try `npm run run your-bot-token`
+```
+$ npm run your-bot-token
+```
+
+#### <ins>Step 7:</ins>
+Use the link the bot has generated for you. Invite, authorize to getting started.
+
+#### <ins>Step 8:</ins>
+Run the command `/henlo` of the bot and thats all.
+> *you can turn off the bot by close your current IDE or `Ctrl + C` or enable the `process.exit` and the bot will automatically shutdown itself
+
+
+
+
 
 - if ur bot successfully started and got an `online` status, invite it using the URL created on the Dev portal site.
 - use the `/hithere` command by type `/` on the chat and select you bot
 - if u still uneligible, that is because ur bot is new even brand new and it take abt 24h for ur bot to be fully registered as "active" on discord 
 - dont forget to turn on the `"Use data to improve Discord"` in User `settings -> privacy` because at least one person using ur bot need that turned on in order for us to track command events.
 
----
+
+
+
+
+
+<!--
 
 ## ✨ others:
 
@@ -98,3 +112,4 @@ $ docker stop <CONTAINER ID>
 ```
 $ docker restart <CONTAINER ID>
 ```
+-->
