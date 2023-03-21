@@ -31,32 +31,31 @@ $ npm install | npm i
 ```
 $ npm run your-bot-token
 ```
-✏️ Step 5:
-
-✏️ Step 6:
-
-
-
-
-
-
+- The bot will auto generate a link for you like the pic below, use it to invite your bot into your server
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/100349044/226507467-f1012c20-1002-4411-92e7-e3215932f910.png" alt="uvu" width="800">
+    <br>
+    <br>
+</div>
+- Run the command `/henlo` of the bot and it will reply with `busted xD`. Done! Now `Ctrl C`
 
 
-#### <ins>Step 7:</ins>
-Use the link the bot has generated for you. Invite, authorize to getting started.
-
-#### <ins>Step 8:</ins>
-Run the command `/henlo` of the bot and thats all.
-> *you can turn off the bot by close your current IDE or `Ctrl + C` or enable the `process.exit` and the bot will automatically shutdown itself
+### 2. Something you should know:
+- Allow at least 24 hours for your app's activity status to be updated. if u still uneligible, make sure that your bot have a slash command icon or because your bot is new even brand new and it take more than 24h to be fully registered as "active" on discord 
+- You must enable the ***Community feature*** and you need ***Admin permission*** and you will see that in the server to appear in the server selection menu.
+- Dont forget to turn on the `"Use data to improve Discord"` in User `Settings -> Privacy`
 
 
 
 
 
-- if ur bot successfully started and got an `online` status, invite it using the URL created on the Dev portal site.
-- use the `/hithere` command by type `/` on the chat and select you bot
-- if u still uneligible, that is because ur bot is new even brand new and it take abt 24h for ur bot to be fully registered as "active" on discord 
-- dont forget to turn on the `"Use data to improve Discord"` in User `settings -> privacy` because at least one person using ur bot need that turned on in order for us to track command events.
+
+
+
+
+
+
+
 
 
 
@@ -69,42 +68,3 @@ Run the command `/henlo` of the bot and thats all.
 
 - package: https://www.npmjs.com/settings/nnbaocuong99/packages
 - Dockerfile: [here](https://github.com/nnbaocuong99/ADBadge-bot/blob/main/Dockerfile)
-
----
-
-## ✨ bonus some extra command if u use docker:
-
-1. if u dont wanna use my Dockerfile, just create ur own
-`nano` or `touch` Dockerfile
-
-2. move to ur discord bot directory.
-```
-$ cd ~/your-directory
-```
-
-3. build it (. means u gonna build it from th
-```
-$ docker build -t -d your-directory .
-```
-
-4. run it
-```
-$ docker run -d your-directory
-```
-
-## common commands:
-1. list all docker processes:
-```
-$ docker ps or docker ps -a
-```
-
-2. stop the docker container (discord bot):
-```
-$ docker stop <CONTAINER ID>
-```
-
-3. restart the docker container:
-```
-$ docker restart <CONTAINER ID>
-```
--->
