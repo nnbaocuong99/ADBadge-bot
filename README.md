@@ -19,29 +19,28 @@ $ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 ## ✨Usage / Locahosting / Guides
 ### 1. Do the following steps below to get your free badge
 
-<ins>Step 1:</ins> <ins>Create an appplication</ins> and *add a bot* on [Discord Developer Portal](https://discord.com/developers/applications)
-
-Step 2: `Copy` your bot token. `Reset Token` if you need it.
-
-
-
-#### <ins>Step 4:</ins>
-Clone this project:
-```
-$ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
-```
-
-#### <ins>Step 5:</ins> 
-`cd` into it and install the dependencies:
+- *Create an appplication* and *add a bot* on [Discord Developer Portal](https://discord.com/developers/applications)
+- Click `Copy` or `Reset Token` to get your bot token.
+> You just can view your token for 1 time and it will no longer reveal, so make sure you're copied and storaged it, for more check [this](https://support-dev.discord.com/hc/en-us/articles/6470840524311-Why-can-t-I-copy-my-bot-s-token-)
+- Use your `IDE` or `Terminal` and cd into the directory, then run this command to install the dependencies:
 ```
 $ npm install | npm i
 ```
-
-#### <ins>Step 6:</ins>
-Replace the `your-bot-token` in the command below and run it, If it not work try `npm run run your-bot-token`
+- When the dependencies succesfully installed, replace the `your-bot-token` with your real token and run this command:
+> If it not working, try `npm run run`
 ```
 $ npm run your-bot-token
 ```
+✏️ Step 5:
+
+✏️ Step 6:
+
+
+
+
+
+
+
 
 #### <ins>Step 7:</ins>
 Use the link the bot has generated for you. Invite, authorize to getting started.
