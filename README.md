@@ -3,12 +3,12 @@
 > <ins>**this is the new version. I've deleted the old one because the old code no longer works**</ins>
 
 
-## 1. As you know / Summary
+## ✨As you know / Summary
 - Discord has launched a brand-new badge called [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge) and this is not a limited-time event, and there are no plans to stop offering it.
 - Used and got myself and a few more accounts this badges before, so i decided to share it. i really dont mind because this is super easy to make and everybody can make basic bot and get the badge, so just take it if you wanna. i dont have any license or tried to claim or steal from anyone.
 
 
-## 2. Before we get started
+## ✨Before we get started
 - Install [Node](https://nodejs.org/en/), [Git](https://git-scm.com), [Visual Studio Code](https://code.visualstudio.com/insiders/) (Optional)
 - Clone this project:
 ```
@@ -16,16 +16,12 @@ $ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 ```
 
 
+## ✨Usage / Locahosting / Guides
+### 1. Do the following steps below to get your free badge
 
-## 3. Usage / Locahosting / Guides
+<ins>Step 1:</ins> <ins>Create an appplication</ins> and *add a bot* on [Discord Developer Portal](https://discord.com/developers/applications)
 
-
-
-#### <ins>Step 1:</ins>
-**Create an appplication** and **add a bot** on [Discord Developer Portal](https://discord.com/developers/applications)
-
-#### <ins>Step 2:</ins>
-`Copy` your bot token. `Reset Token` if you need it.
+Step 2: `Copy` your bot token. `Reset Token` if you need it.
 
 
 
