@@ -14,6 +14,10 @@
 $ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 ```
 - *Create an appplication* and *add a bot* on [Discord Developer Portal](https://discord.com/developers/applications)
+
+![image](https://user-images.githubusercontent.com/100349044/236595136-16554cf7-fceb-47aa-b864-fde1711f88ef.png)
+
+
 - Click `Copy` or `Reset Token` to get your bot token. <sup>You just can view your token for 1 time and it will no longer reveal, for more check [this](https://support-dev.discord.com/hc/en-us/articles/6470840524311-Why-can-t-I-copy-my-bot-s-token-)</sup>
 - Use your `IDE` or `Terminal` then run this command in the directory to install the dependencies:
 ```
