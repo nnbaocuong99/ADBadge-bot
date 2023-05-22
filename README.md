@@ -33,18 +33,18 @@ npm install | npm i
 npm run your-bot-token
 ```
 - The bot will auto generate a link for you like the pic below, use it to invite your bot into your server
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/100349044/226507467-f1012c20-1002-4411-92e7-e3215932f910.png" alt="uvu" width="800">
-    <br>
-    <br>
-</div>
 
-- Run the command `/henlo` of the bot and it will reply with `busted xD`. Done!
+  <img src="https://github.com/nnbaocuong99/ADBadge-bot/assets/100349044/ff05fb3b-78b9-4789-bb43-f063483c30cc" alt="uvu" width="800">
+
+
+- Run the command `/henlo` of the bot and it will reply with `busted xD` | `ctrl + C` to stop your bot
+- Done! Now just wait for your account eligible to claim the badge.
 
 ### 3. Something you should know:
 - Allow at least 24 hours for your app's activity status to be updated. if u still uneligible, make sure that your bot have a slash command icon or because your bot is new even brand new and it take more than 24h to be fully registered as "active" on discord 
 - You must enable the ***Community feature*** and you need ***Admin permission*** and you will see that in the server to appear in the server selection menu.
 - Dont forget to turn on the `"Use data to improve Discord"` in User `Settings -> Privacy`
+
 
 
 
