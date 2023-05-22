@@ -24,7 +24,7 @@ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 npm install | npm i
 ```
 - When the dependencies succesfully installed, replace the `your-bot-token` with your bot token and run this command:
-> If it not working, try `npm run run`
+> ***Warning*** If it not working, try `npm run run`
 ```bash
 npm run your-bot-token
 ```
