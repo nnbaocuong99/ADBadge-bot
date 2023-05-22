@@ -10,22 +10,26 @@
 ### 2. Usage / Localhosting / Guides
 - Install [Node](https://nodejs.org/en/), [Git](https://git-scm.com) and any IDE (For example: [Visual Studio Code](https://code.visualstudio.com/insiders/))
 - Clone this project:
-```bash
+```shell
 git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 ```
 - *Create an appplication* and *add a bot* on [Discord Developer Portal](https://discord.com/developers/applications)
 
-![image](https://user-images.githubusercontent.com/100349044/236595136-16554cf7-fceb-47aa-b864-fde1711f88ef.png)
+   ![image](https://user-images.githubusercontent.com/100349044/236595136-16554cf7-fceb-47aa-b864-fde1711f88ef.png)
 
 
 - Click `Copy` or `Reset Token` to get your bot token. <sup>You just can view your token for 1 time and it will no longer reveal, for more check [this](https://support-dev.discord.com/hc/en-us/articles/6470840524311-Why-can-t-I-copy-my-bot-s-token-)</sup>
+
+  <img src="https://github.com/nnbaocuong99/ADBadge-bot/assets/100349044/453d7304-0843-4b0d-9ede-0bc2d5a064ef" alt="uvu" width="600">
+
+
 - Use your `IDE` or `Terminal` then run this command in the directory to install the dependencies:
 ```bash
 npm install | npm i
 ```
 - When the dependencies succesfully installed, replace the `your-bot-token` with your bot token and run this command:
 > ***Warning*** If it not working, try `npm run run`
-```bash
+```yaml
 npm run your-bot-token
 ```
 - The bot will auto generate a link for you like the pic below, use it to invite your bot into your server
