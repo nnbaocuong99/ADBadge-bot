@@ -35,18 +35,20 @@ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 npm install | npm i
 ```
 - When the dependencies succesfully installed, replace the `your-bot-token` with your bot token and run this command:
-> ***Warning*** If it not working, try `npm run run`
+> ***Warning*** 
+> - If it not working, try `npm run run`
+> - `Ctrl + C` to stop your bot
 ```yaml
 npm run your-bot-token
 ```
-- The bot will auto generate a link for you like the pic below, use it to invite your bot into your server
+- When the bot has logged in, copy the invite link given to you by highlighting the URL and right-clicking, then go to a browser and paste the URL. Use it to invite the bot to your server
 
   <img src="https://github.com/nnbaocuong99/ADBadge-bot/assets/100349044/ff05fb3b-78b9-4789-bb43-f063483c30cc" alt="uvu" width="800">
 
 ###### Step 4
-- Back to your Discord client and run the command `/henlo` of the bot by type `/` on the chat channel
+- Within the server, Use the `/hello` command provided to you.
 - Done! Now just wait for your account eligible to claim the badge.
-- `Ctrl + C` to stop your bot
+
 
 <br>
 
