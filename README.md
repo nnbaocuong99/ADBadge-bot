@@ -47,8 +47,9 @@ npm run your-bot-token
 
 ###### Step 4
 - Within the server, Use the `/hello` command provided to you.
-- Done! Now just wait for your account eligible to claim the badge.
+- Done! Now just go to [this link](https://discord.com/developers/active-developer) and claim your badge.
 
+> **Warning** It might take 24 hours before you are able to claim at all, so please take time to wait a bit if that is the case.
 
 <br>
 
