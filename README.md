@@ -13,7 +13,7 @@
 ###### Step 1:
 - Install [Node](https://nodejs.org/en/), [Git](https://git-scm.com) and any IDE (For example: [Visual Studio Code](https://code.visualstudio.com/insiders/))
 - Clone this project:
-```shell
+```ruby
 git clone https://github.com/nnbaocuong99/ADBadge-bot.git
 ```
 
@@ -31,7 +31,7 @@ git clone https://github.com/nnbaocuong99/ADBadge-bot.git
  
 ###### Step 3
 - Use your `IDE` or `Terminal` then run this command in the directory to install the dependencies:
-```bash
+```ruby
 npm install | npm i
 ```
 - When the dependencies succesfully installed, replace the `your-bot-token` with your bot token and run this command:
